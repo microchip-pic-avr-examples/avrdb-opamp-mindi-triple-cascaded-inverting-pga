@@ -10,7 +10,7 @@ This op amp configuration uses three op amps in a programmable gain configuratio
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-triple-cascaded-inverting-pga/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
